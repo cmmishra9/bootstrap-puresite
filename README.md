@@ -1,2 +1,2 @@
 # bootstrap-puresite
-a clean and simple bootstrap site
+A clean and pure bootstrap single page website template design for minimalistic veiw. 
